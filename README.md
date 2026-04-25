@@ -5,7 +5,7 @@ I´m Leonardo Monge
 Welcome to my personal Github.
 These are my projects ⬇️
 
-| Project | technology | description |
+| Project | Technology | Description |
 |---------|------------|-------------|
 | Digital logBook | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee leave management
 | Leonardo WebSite | Javascript, HTML, Node.js, CSS | Web portfolio
