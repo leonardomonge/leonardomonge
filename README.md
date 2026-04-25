@@ -15,7 +15,7 @@ These are my projects ⬇️
  Visit my website to see more 🔍
  
 🚀 Now, I´m working on my next project  🚀
-Electronic Tickets
+
 I am going to create an application that will execute the purchase of lunches and breakfasts digitally through electronic tickets, this for the company I currently work for.
 
 
