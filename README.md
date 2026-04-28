@@ -7,7 +7,7 @@ These are my projects ⬇️
 
 | Project | Technology | Description |
 |---------|------------|-------------|
-| Digital logBook | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee leave management
+| Digital logBook | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee permission control
 | Leonardo WebSite | Javascript, HTML, Node.js, CSS | Web portfolio
 | Pokemon Game | Javascript, OPP, Node.js | Console Game
  
