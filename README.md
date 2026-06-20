@@ -8,7 +8,7 @@ These are some of the projects I've worked on.
 
 | Digital Tickets | React,Nest.js,PostgreSQL, Microsoft Azure,Docker, GitHub Actions |Purchase of internal products
 
-| Digital logBook | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee permission control
+| Bitacora Digital | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee permission control
 
 | Leonardo WebSite | Javascript, HTML, Node.js, CSS | Web portfolio
 
