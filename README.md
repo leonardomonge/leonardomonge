@@ -2,11 +2,10 @@
 I´m Leonardo Monge
 
 
-Welcome to my personal Github.
-These are my projects ⬇️
+These are some of the projects I've worked on.
 
 | Project | Technology | Description |
-|---------|------------|-------------|
+| Digital Tickets | React,Nest.js,PostgreSQL, Microsoft Azure,Docker, GitHub Actions |Purchase of internal products|
 | Digital logBook | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee permission control
 | Leonardo WebSite | Javascript, HTML, Node.js, CSS | Web portfolio
 | Pokemon Game | Javascript, OPP, Node.js | Console Game
@@ -14,8 +13,7 @@ These are my projects ⬇️
 
  Visit my website to see more 🔍
  
-🚀 Now, I´m working on my next project  🚀
+🚀 
 
-I am going to create an application that will execute the purchase of lunches and breakfasts digitally through electronic tickets, this for the company I currently work for.
 
 
