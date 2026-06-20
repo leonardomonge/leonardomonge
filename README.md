@@ -4,7 +4,7 @@ I´m Leonardo Monge
 
 These are some of the projects I've worked on.
 
-| Project | Technology | Description |
+| Project 🚀  Technology 🚀 Description🚀  
 
 | Digital Tickets | React,Nest.js,PostgreSQL, Microsoft Azure,Docker, GitHub Actions |Purchase of internal products
 
@@ -17,7 +17,7 @@ These are some of the projects I've worked on.
 
  Visit my website to see more 🔍
  
-🚀 
+
 
 
 
