@@ -10,7 +10,7 @@ These are some of the projects I've worked on.
 
 | Bitacora Digital | React, Nest.js, Vite, PostgreSQL, Tailwind, Railway | Employee permission control
 
-| Leonardo WebSite | Javascript, HTML, Node.js, CSS | Web portfolio
+| Resume WebPage | Javascript, HTML, Node.js, CSS | Web portfolio
 
 | Pokemon Game | Javascript, OPP, Node.js | Console Game
  
